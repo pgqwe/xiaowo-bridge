@@ -1,0 +1,6 @@
+name: astrbot_plugin_xiaowo_bridge
+display_name: 小窝桥接
+version: v1.0.2
+author: 蓝汐
+desc: 小窝（自建聊天 App）桥接：QQ 资料管理（签名/头像）Web API + 桌面文件与截屏 LLM 工具。仓库开源，MIT 协议。
+repo: https://github.com/lanxi/xiaowo-bridge
